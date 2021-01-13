@@ -1,0 +1,63 @@
+
+ Error text:  ?nqredient deyisikliyi zamani xeta 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:34:35 2021
+
+
+
+ Error text: Inqridientin axtarisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:35:13 2021
+
+
+
+ Error text:  Inqredient silme zamani xeta 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:35:51 2021
+
+
+
+ Error text:   Inqridientlerin cekisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:38:17 2021
+
+
+
+ Error text:  ?nqredient deyisikliyi zamani xeta 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:38:53 2021
+
+
+
+ Error text: Inqridientin axtarisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:39:23 2021
+
+
+
+ Error text: Inqridientin axtarisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:39:57 2021
+
+
+
+ Error text:  Inqredient silme zamani xeta 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:40:41 2021
+
+
+
+ Error text:   Inqridientlerin cekisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:41:49 2021
+
+

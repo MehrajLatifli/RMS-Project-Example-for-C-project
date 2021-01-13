@@ -1,0 +1,7 @@
+
+ Error text:   Reseptin cekisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:44:18 2021
+
+

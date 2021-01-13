@@ -1,0 +1,7 @@
+
+ Error text:   Yemeyin qiymetinin xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:43:43 2021
+
+

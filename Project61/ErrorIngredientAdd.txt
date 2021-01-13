@@ -1,0 +1,7 @@
+
+ Error text:   Inqridientlerin cekisi xetasi 
+ Error source:  Database.h 
+
+Time: Wed Jan 13 20:32:54 2021
+
+

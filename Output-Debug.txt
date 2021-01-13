@@ -1,0 +1,16 @@
+﻿'RMS.exe' (Win32): Loaded 'A:\Step\Ev tapşırıqları\2 -ci yarım il\C++\Elvin Camalzadə\Imtahan\Project61 - 2\Debug\RMS.exe'. Symbols loaded.
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2350 has exited with code 0 (0x0).
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x2f24 has exited with code 0 (0x0).
+The thread 0x5384 has exited with code 0 (0x0).
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'RMS.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x1dc4 has exited with code 0 (0x0).
+The program '[22180] RMS.exe' has exited with code 0 (0x0).
